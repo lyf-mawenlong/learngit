@@ -7,4 +7,4 @@ ca  luan ma le!
 add new line ...
 
 
-on branch of dev ,modify  file odd 
+on branch of dev ,modify  file and add
